@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 6px;
+}
+
+.jumbotron {
+  text-align: center;
+  border: 1px solid grey;
+}
